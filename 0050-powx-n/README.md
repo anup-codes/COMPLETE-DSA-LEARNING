@@ -1,5 +1,7 @@
 <h2><a href="https://leetcode.com/problems/powx-n">50. Pow(x, n)</a></h2><h3>Medium</h3><hr><p>Implement <a href="http://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(x, n)</a>, which calculates <code>x</code> raised to the power <code>n</code> (i.e., <code>x<sup>n</sup></code>).</p>
 
+link : https://leetcode.com/problems/powx-n/description/
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
